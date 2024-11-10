@@ -1,5 +1,9 @@
 import streamlit as st
 
+
+
+st.write(st.secrets)
+
 # Set the title of the app
 st.title("Hello, Streamlit!")
 
